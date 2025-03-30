@@ -18,7 +18,7 @@ The **LinkedIn Career Optimizer** is an AI-powered chat system that helps users 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/yash212000/LinkedinChatOptimizer.git
    ```
 2. Install dependencies:
    ```bash
