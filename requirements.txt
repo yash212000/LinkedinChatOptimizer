@@ -1,0 +1,6 @@
+streamlit
+apify-client
+openai
+langchain
+python-dotenv
+langchain_community
