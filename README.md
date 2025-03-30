@@ -31,7 +31,7 @@ The **LinkedIn Career Optimizer** is an AI-powered chat system that helps users 
 ## Usage
 1. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 2. Enter your **LinkedIn profile URL** and **desired job role**.
 3. Receive profile analysis and job fit recommendations.
